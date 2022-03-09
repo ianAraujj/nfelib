@@ -11,7 +11,7 @@ setup(
     version='0.5',
     author='Raphael Valyi',
     author_email='raphael.valyi@akretion.com',
-    url='https://github.com/akretion/nfelib',
+    url='https://github.com/ianAraujj/nfelib',
     description='nfelib: electronic invoicing library for Brazil',
     long_description=readme,
     long_description_content_type='text/markdown',
